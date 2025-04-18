@@ -2608,19 +2608,19 @@
   dependencies:
     tslib "^2.3.0"
 
-"@xyflow/react@^12.3.6":
-  version "12.3.6"
-  resolved "https://registry.npmjs.org/@xyflow/react/-/react-12.3.6.tgz"
-  integrity sha512-9GS+cz8hDZahpvTrVCmySAEgKUL8oN4b2q1DluHrKtkqhAMWfH2s7kblhbM4Y4Y4SUnH2lt4drXKZ/4/Lot/2Q==
+"@xyflow/react@^12.6.0":
+  version "12.6.0"
+  resolved "https://registry.yarnpkg.com/@xyflow/react/-/react-12.6.0.tgz#df02d2f5b701739c14387d8f608182e67b7774e5"
+  integrity sha512-YzsSK4SlpC6e9Ki1g6O9B1UH7xvz/bzWF+tJ+vWDD8Am5xJmFn0jYnCEuqvzvH8dRKb1NFBmyuqEGqWN39xXsA==
   dependencies:
-    "@xyflow/system" "0.0.47"
+    "@xyflow/system" "0.0.57"
     classcat "^5.0.3"
     zustand "^4.4.0"
 
-"@xyflow/system@0.0.47":
-  version "0.0.47"
-  resolved "https://registry.npmjs.org/@xyflow/system/-/system-0.0.47.tgz"
-  integrity sha512-aUXJPIvsCFxGX70ccRG8LPsR+A8ExYXfh/noYNpqn8udKerrLdSHxMG2VsvUrQ1PGex10fOpbJwFU4A+I/Xv8w==
+"@xyflow/system@0.0.57":
+  version "0.0.57"
+  resolved "https://registry.yarnpkg.com/@xyflow/system/-/system-0.0.57.tgz#5e3980136b02f281b1c5962d6ae6792e524006c7"
+  integrity sha512-1YpBo0WgmZLR5wQw9Jvk3Tu0gISi/oYc4uSimrDuAsA/G2rGleulLrKkM59uuT/QU5m6DYC2VdBDAzjSNMGuBA==
   dependencies:
     "@types/d3-drag" "^3.0.7"
     "@types/d3-selection" "^3.0.10"
